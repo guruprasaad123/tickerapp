@@ -51,7 +51,7 @@
 
 #### Run the App:
 
-1. Run the `app.py`  by using this command. (set `debug=True` for Developement , `debug=False` for Production) in (settings.py)[https://github.com/guruprasaad123/tickerapp/blob/master/server/settings.py]
+1. Run the `app.py`  by using this command. (set `debug=True` for Developement , `debug=False` for Production) in [settings.py](https://github.com/guruprasaad123/tickerapp/blob/master/server/settings.py)
 
    ```python
    python manage.py runserver
